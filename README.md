@@ -1,6 +1,8 @@
 # GLPI
 
-# Implementação do sistema de HelpDesk GLPI no UBUNTU Server
+## Implementação do sistema de HelpDesk GLPI no UBUNTU Server
+
+![imagem-exemplo](https://glpi-project.org/wp-content/uploads/2020/06/upload_9504af02ea5974a0532b17c2b38144aa.png)
 
 ## Requisitos 
 1 Servidor para Banco de dados <br>
